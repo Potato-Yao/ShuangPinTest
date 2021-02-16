@@ -1,6 +1,11 @@
-package PACKAGE_NAME;/**
+/**
  * @author Potato Yao
  */
- 
-public class Test {
+
+public class Test
+{
+	public static void main(String[] args)
+	{
+
+	}
 }
